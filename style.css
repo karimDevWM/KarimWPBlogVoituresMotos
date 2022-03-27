@@ -1,0 +1,51 @@
+/**
+Theme Name: blogMotosVoitures
+Author: Karim
+**/
+.post-title
+{
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+.single-grid
+{
+    display: grid;
+    grid-template-columns: 30% 70%;
+}
+
+.leftsidebar
+{
+    border: 2px solid black;
+    background-color: cadetblue;
+}
+
+.leftSideBar .card
+{
+    background-color: transparent;
+    border: none;
+}
+
+.pagination
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+div.custom-menu-class ul {
+    margin:20px 0px 20px 0px;
+    list-style-type: none;
+    list-style: none;
+    list-style-image: none;
+    text-align:right;
+    display:inline-block;   
+}
+div.custom-menu-class li {
+    padding: 0px 20px 0px 0px;
+    display: inline-block;
+} 
+ 
+div.custom-menu-class a { 
+    color:white;
+}
