@@ -49,3 +49,9 @@ div.custom-menu-class li {
 div.custom-menu-class a { 
     color:white;
 }
+
+.footer
+{
+    background-color: black;
+    color: white;
+}

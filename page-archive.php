@@ -3,7 +3,6 @@
 Template Name: Archives
 */
     get_header();
-    get_footer();
 ?>
 
 <div class="single-grid">
@@ -42,4 +41,6 @@ Template Name: Archives
 		}
 		?>
 	</div>
+	
 </div>
+<?php get_footer(); ?>

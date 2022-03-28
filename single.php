@@ -1,6 +1,5 @@
 <?php 
 	get_header();
-	get_footer();
 	get_template_part('template-parts/navigation');
 ?>
 	<h1 class="post-title mt-5"><?= the_title(); ?></h1>
