@@ -6,7 +6,7 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <a href="<?php home_url('/'); ?>"><img src="http://localhost/messaoud/blogVoitures&motos/wp-content/uploads/2022/03/auto-moto.jpg" width="100" height="100" alt=""></a>
+        <a href="<?php echo get_home_url(); ?>"><img src="http://localhost/messaoud/blogVoitures&motos/wp-content/uploads/2022/03/auto-moto.jpg" width="100" height="100" alt=""></a>
         <?php 
         
           wp_nav_menu(array('theme_location' => 'main_menu',
