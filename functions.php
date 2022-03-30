@@ -30,7 +30,7 @@
     // add stylesheets
     function blogMotosVoitures_register_styles()
     {
-        wp_enqueue_style('activiteWordpress_css','https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css', array(), '', 'all');
+        wp_enqueue_style('bootstrap','https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css', array(), '', 'all');
         wp_enqueue_style( 'my-theme', get_template_directory_uri().'/style.css' );
     }
     add_action( 'wp_enqueue_scripts', 'blogMotosVoitures_register_styles');

@@ -1,3 +1,6 @@
-<div class="leftSideBar mt-5">
+<?php 
+	get_header(); 
+?>
+<div>
 	<?php dynamic_sidebar( 'archives-sidebar' ); ?>
 </div>

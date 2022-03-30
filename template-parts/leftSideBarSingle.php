@@ -18,7 +18,7 @@
 												{
 										?>
 													<div class="card">
-														<div><?php echo get_the_post_thumbnail($pst); ?></div>
+														<div><?php echo get_the_post_thumbnail($pst, 'thumbnail'); ?></div>
 														<div class="card-body">
 															<h5 class="card-title"><?= get_the_title($pst); ?></h5>
 															<p class="card-text"><?= get_the_excerpt($pst); ?></p>
