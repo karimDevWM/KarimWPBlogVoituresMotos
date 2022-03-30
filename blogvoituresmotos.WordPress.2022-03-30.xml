@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.9.2" created="2022-03-30 09:17" -->
+	<!-- generator="WordPress/5.9.2" created="2022-03-30 11:06" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>blogvoituresmotos</title>
 	<link>http://localhost/messaoud/blogVoitures&#038;motos</link>
 	<description>Un site utilisant WordPress</description>
-	<pubDate>Wed, 30 Mar 2022 09:17:32 +0000</pubDate>
+	<pubDate>Wed, 30 Mar 2022 11:06:53 +0000</pubDate>
 	<language>fr-FR</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost/messaoud/blogVoitures&#038;motos</wp:base_site_url>
@@ -96,6 +96,80 @@
 	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 		<item>
+		<title><![CDATA[Page d’exemple]]></title>
+		<link>http://localhost/messaoud/blogVoitures&#038;motos/?page_id=2</link>
+		<pubDate>Fri, 25 Mar 2022 01:18:20 +0000</pubDate>
+		<dc:creator><![CDATA[blogvoituresmotos]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/messaoud/blogVoitures&#038;motos/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Ceci est une page d’exemple. C’est différent d’un article de blog parce qu’elle restera au même endroit et apparaîtra dans la navigation de votre site (dans la plupart des thèmes). La plupart des gens commencent par une page « À propos » qui les présente aux personnes visitant le site. Cela pourrait ressembler à quelque chose comme cela :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Bonjour ! Je suis un mécanicien qui aspire à devenir acteur, et voici mon site. J’habite à Bordeaux, j’ai un super chien baptisé Russell, et j’aime la vodka (ainsi qu’être surpris par la pluie soudaine lors de longues balades sur la plage au coucher du soleil).</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>…ou quelque chose comme cela :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>La société 123 Machin Truc a été créée en 1971, et n’a cessé de proposer au public des machins-trucs de qualité depuis lors. Située à Saint-Remy-en-Bouzemont-Saint-Genest-et-Isson, 123 Machin Truc emploie 2 000 personnes, et fabrique toutes sortes de bidules supers pour la communauté bouzemontoise.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>En tant que nouvel utilisateur ou utilisatrice de WordPress, vous devriez vous rendre sur <a href="http://localhost/messaoud/blogVoitures&motos/wp-admin/">votre tableau de bord</a> pour supprimer cette page et créer de nouvelles pages pour votre contenu. Amusez-vous bien !</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2022-03-25 02:18:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-03-25 01:18:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-03-25 18:33:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-03-25 17:33:43]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[page-d-exemple]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Politique de confidentialité]]></title>
+		<link>http://localhost/messaoud/blogVoitures&#038;motos/?page_id=3</link>
+		<pubDate>Fri, 25 Mar 2022 01:18:20 +0000</pubDate>
+		<dc:creator><![CDATA[blogvoituresmotos]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/messaoud/blogVoitures&#038;motos/?page_id=3</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:heading --><h2>Qui sommes-nous ?</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texte suggéré : </strong>L’adresse de notre site est : http://localhost/messaoud/blogVoitures&motos.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Commentaires</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texte suggéré : </strong>Quand vous laissez un commentaire sur notre site, les données inscrites dans le formulaire de commentaire, ainsi que votre adresse IP et l’agent utilisateur de votre navigateur sont collectés pour nous aider à la détection des commentaires indésirables.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>Une chaîne anonymisée créée à partir de votre adresse e-mail (également appelée hash) peut être envoyée au service Gravatar pour vérifier si vous utilisez ce dernier. Les clauses de confidentialité du service Gravatar sont disponibles ici : https://automattic.com/privacy/. Après validation de votre commentaire, votre photo de profil sera visible publiquement à coté de votre commentaire.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Médias</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texte suggéré : </strong>Si vous téléversez des images sur le site, nous vous conseillons d’éviter de téléverser des images contenant des données EXIF de coordonnées GPS. Les personnes visitant votre site peuvent télécharger et extraire des données de localisation depuis ces images.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Cookies</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texte suggéré : </strong>Si vous déposez un commentaire sur notre site, il vous sera proposé d’enregistrer votre nom, adresse e-mail et site dans des cookies. C’est uniquement pour votre confort afin de ne pas avoir à saisir ces informations si vous déposez un autre commentaire plus tard. Ces cookies expirent au bout d’un an.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>Si vous vous rendez sur la page de connexion, un cookie temporaire sera créé afin de déterminer si votre navigateur accepte les cookies. Il ne contient pas de données personnelles et sera supprimé automatiquement à la fermeture de votre navigateur.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>Lorsque vous vous connecterez, nous mettrons en place un certain nombre de cookies pour enregistrer vos informations de connexion et vos préférences d’écran. La durée de vie d’un cookie de connexion est de deux jours, celle d’un cookie d’option d’écran est d’un an. Si vous cochez « Se souvenir de moi », votre cookie de connexion sera conservé pendant deux semaines. Si vous vous déconnectez de votre compte, le cookie de connexion sera effacé.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>En modifiant ou en publiant une publication, un cookie supplémentaire sera enregistré dans votre navigateur. Ce cookie ne comprend aucune donnée personnelle. Il indique simplement l’ID de la publication que vous venez de modifier. Il expire au bout d’un jour.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Contenu embarqué depuis d’autres sites</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texte suggéré : </strong>Les articles de ce site peuvent inclure des contenus intégrés (par exemple des vidéos, images, articles…). Le contenu intégré depuis d’autres sites se comporte de la même manière que si le visiteur se rendait sur cet autre site.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>Ces sites web pourraient collecter des données sur vous, utiliser des cookies, embarquer des outils de suivis tiers, suivre vos interactions avec ces contenus embarqués si vous disposez d’un compte connecté sur leur site web.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Utilisation et transmission de vos données personnelles</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texte suggéré : </strong>Si vous demandez une réinitialisation de votre mot de passe, votre adresse IP sera incluse dans l’e-mail de réinitialisation.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Durées de stockage de vos données</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texte suggéré : </strong>Si vous laissez un commentaire, le commentaire et ses métadonnées sont conservés indéfiniment. Cela permet de reconnaître et approuver automatiquement les commentaires suivants au lieu de les laisser dans la file de modération.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>Pour les comptes qui s’inscrivent sur notre site (le cas échéant), nous stockons également les données personnelles indiquées dans leur profil. Tous les comptes peuvent voir, modifier ou supprimer leurs informations personnelles à tout moment (à l’exception de leur identifiant). Les gestionnaires du site peuvent aussi voir et modifier ces informations.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Les droits que vous avez sur vos données</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texte suggéré : </strong>Si vous avez un compte ou si vous avez laissé des commentaires sur le site, vous pouvez demander à recevoir un fichier contenant toutes les données personnelles que nous possédons à votre sujet, incluant celles que vous nous avez fournies. Vous pouvez également demander la suppression des données personnelles vous concernant. Cela ne prend pas en compte les données stockées à des fins administratives, légales ou pour des raisons de sécurité.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Transmission de vos données personnelles</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texte suggéré : </strong>Les commentaires des visiteurs peuvent être vérifiés à l’aide d’un service automatisé de détection des commentaires indésirables.</p><!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3</wp:post_id>
+		<wp:post_date><![CDATA[2022-03-25 02:18:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-03-25 01:18:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-03-25 18:33:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-03-25 17:33:17]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[politique-de-confidentialite]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[voitures]]></title>
 		<link>http://localhost/messaoud/blogVoitures&#038;motos/voitures/</link>
 		<pubDate>Fri, 25 Mar 2022 02:14:16 +0000</pubDate>
@@ -227,82 +301,6 @@
 		<wp:meta_value><![CDATA[2022/03/promos-vente-privee-motos-prix-coutant-bmw-r1250gs.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[MotosetVoitures]]></title>
-		<link>http://localhost/messaoud/blogVoitures&#038;motos/?post_type=acf-field-group&#038;p=51</link>
-		<pubDate>Sat, 26 Mar 2022 15:26:01 +0000</pubDate>
-		<dc:creator><![CDATA[blogvoituresmotos]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/messaoud/blogVoitures&#038;motos/?post_type=acf-field-group&#038;p=51</guid>
-		<description></description>
-		<content:encoded><![CDATA[a:8:{s:8:"location";a:1:{i:0;a:1:{i:0;a:3:{s:5:"param";s:9:"post_type";s:8:"operator";s:2:"==";s:5:"value";s:4:"post";}}}s:8:"position";s:6:"normal";s:5:"style";s:7:"default";s:15:"label_placement";s:3:"top";s:21:"instruction_placement";s:5:"label";s:14:"hide_on_screen";s:0:"";s:11:"description";s:0:"";s:12:"show_in_rest";i:0;}]]></content:encoded>
-		<excerpt:encoded><![CDATA[motosetvoitures]]></excerpt:encoded>
-		<wp:post_id>51</wp:post_id>
-		<wp:post_date><![CDATA[2022-03-26 16:26:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-03-26 15:26:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-26 16:49:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-26 15:49:33]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[group_623f2fb336b4d]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[acf-field-group]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[date sortie]]></title>
-		<link>http://localhost/messaoud/blogVoitures&#038;motos/?post_type=acf-field&#038;p=52</link>
-		<pubDate>Sat, 26 Mar 2022 15:26:01 +0000</pubDate>
-		<dc:creator><![CDATA[blogvoituresmotos]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/messaoud/blogVoitures&#038;motos/?post_type=acf-field&#038;p=52</guid>
-		<description></description>
-		<content:encoded><![CDATA[a:8:{s:4:"type";s:11:"date_picker";s:12:"instructions";s:0:"";s:8:"required";i:1;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:0:"";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:14:"display_format";s:1:"Y";s:13:"return_format";s:1:"Y";s:9:"first_day";i:1;}]]></content:encoded>
-		<excerpt:encoded><![CDATA[date_sortie]]></excerpt:encoded>
-		<wp:post_id>52</wp:post_id>
-		<wp:post_date><![CDATA[2022-03-26 16:26:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-03-26 15:26:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-26 16:49:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-26 15:49:33]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[field_623f2fdcedf7e]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>51</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[acf-field]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[puissance en chevaux ou cm3]]></title>
-		<link>http://localhost/messaoud/blogVoitures&#038;motos/?post_type=acf-field&#038;p=53</link>
-		<pubDate>Sat, 26 Mar 2022 15:27:14 +0000</pubDate>
-		<dc:creator><![CDATA[blogvoituresmotos]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/messaoud/blogVoitures&#038;motos/?post_type=acf-field&#038;p=53</guid>
-		<description></description>
-		<content:encoded><![CDATA[a:12:{s:4:"type";s:6:"number";s:12:"instructions";s:0:"";s:8:"required";i:1;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:0:"";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";s:3:"min";s:0:"";s:3:"max";s:0:"";s:4:"step";s:0:"";}]]></content:encoded>
-		<excerpt:encoded><![CDATA[puissance_en_chevaux_ou_cm3]]></excerpt:encoded>
-		<wp:post_id>53</wp:post_id>
-		<wp:post_date><![CDATA[2022-03-26 16:27:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-03-26 15:27:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-26 16:27:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-26 15:27:14]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[field_623f3094d5191]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>51</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[acf-field]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
 					<item>
 		<title><![CDATA[YAMAHA_MT10_2022-1]]></title>
 		<link>http://localhost/messaoud/blogVoitures&#038;motos/yamaha_mt10_2022-1/</link>
@@ -601,6 +599,34 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Archives]]></title>
+		<link>http://localhost/messaoud/blogVoitures&#038;motos/archives/</link>
+		<pubDate>Sun, 27 Mar 2022 14:07:33 +0000</pubDate>
+		<dc:creator><![CDATA[blogvoituresmotos]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/messaoud/blogVoitures&#038;motos/?page_id=147</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>147</wp:post_id>
+		<wp:post_date><![CDATA[2022-03-27 16:07:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-03-27 14:07:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-03-27 16:07:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-03-27 14:07:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[archives]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-archive.php]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[]]></title>
 		<link>http://localhost/messaoud/blogVoitures&#038;motos/non-classe/151/</link>
 		<pubDate>Sun, 27 Mar 2022 15:45:06 +0000</pubDate>
@@ -805,80 +831,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Page d’exemple]]></title>
-		<link>http://localhost/messaoud/blogVoitures&#038;motos/?page_id=2</link>
-		<pubDate>Fri, 25 Mar 2022 01:18:20 +0000</pubDate>
-		<dc:creator><![CDATA[blogvoituresmotos]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/messaoud/blogVoitures&#038;motos/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Ceci est une page d’exemple. C’est différent d’un article de blog parce qu’elle restera au même endroit et apparaîtra dans la navigation de votre site (dans la plupart des thèmes). La plupart des gens commencent par une page « À propos » qui les présente aux personnes visitant le site. Cela pourrait ressembler à quelque chose comme cela :</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Bonjour ! Je suis un mécanicien qui aspire à devenir acteur, et voici mon site. J’habite à Bordeaux, j’ai un super chien baptisé Russell, et j’aime la vodka (ainsi qu’être surpris par la pluie soudaine lors de longues balades sur la plage au coucher du soleil).</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>…ou quelque chose comme cela :</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>La société 123 Machin Truc a été créée en 1971, et n’a cessé de proposer au public des machins-trucs de qualité depuis lors. Située à Saint-Remy-en-Bouzemont-Saint-Genest-et-Isson, 123 Machin Truc emploie 2 000 personnes, et fabrique toutes sortes de bidules supers pour la communauté bouzemontoise.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>En tant que nouvel utilisateur ou utilisatrice de WordPress, vous devriez vous rendre sur <a href="http://localhost/messaoud/blogVoitures&motos/wp-admin/">votre tableau de bord</a> pour supprimer cette page et créer de nouvelles pages pour votre contenu. Amusez-vous bien !</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2022-03-25 02:18:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-03-25 01:18:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-25 18:33:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-25 17:33:43]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[page-d-exemple]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Politique de confidentialité]]></title>
-		<link>http://localhost/messaoud/blogVoitures&#038;motos/?page_id=3</link>
-		<pubDate>Fri, 25 Mar 2022 01:18:20 +0000</pubDate>
-		<dc:creator><![CDATA[blogvoituresmotos]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/messaoud/blogVoitures&#038;motos/?page_id=3</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading --><h2>Qui sommes-nous ?</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texte suggéré : </strong>L’adresse de notre site est : http://localhost/messaoud/blogVoitures&motos.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Commentaires</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texte suggéré : </strong>Quand vous laissez un commentaire sur notre site, les données inscrites dans le formulaire de commentaire, ainsi que votre adresse IP et l’agent utilisateur de votre navigateur sont collectés pour nous aider à la détection des commentaires indésirables.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>Une chaîne anonymisée créée à partir de votre adresse e-mail (également appelée hash) peut être envoyée au service Gravatar pour vérifier si vous utilisez ce dernier. Les clauses de confidentialité du service Gravatar sont disponibles ici : https://automattic.com/privacy/. Après validation de votre commentaire, votre photo de profil sera visible publiquement à coté de votre commentaire.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Médias</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texte suggéré : </strong>Si vous téléversez des images sur le site, nous vous conseillons d’éviter de téléverser des images contenant des données EXIF de coordonnées GPS. Les personnes visitant votre site peuvent télécharger et extraire des données de localisation depuis ces images.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Cookies</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texte suggéré : </strong>Si vous déposez un commentaire sur notre site, il vous sera proposé d’enregistrer votre nom, adresse e-mail et site dans des cookies. C’est uniquement pour votre confort afin de ne pas avoir à saisir ces informations si vous déposez un autre commentaire plus tard. Ces cookies expirent au bout d’un an.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>Si vous vous rendez sur la page de connexion, un cookie temporaire sera créé afin de déterminer si votre navigateur accepte les cookies. Il ne contient pas de données personnelles et sera supprimé automatiquement à la fermeture de votre navigateur.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>Lorsque vous vous connecterez, nous mettrons en place un certain nombre de cookies pour enregistrer vos informations de connexion et vos préférences d’écran. La durée de vie d’un cookie de connexion est de deux jours, celle d’un cookie d’option d’écran est d’un an. Si vous cochez « Se souvenir de moi », votre cookie de connexion sera conservé pendant deux semaines. Si vous vous déconnectez de votre compte, le cookie de connexion sera effacé.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>En modifiant ou en publiant une publication, un cookie supplémentaire sera enregistré dans votre navigateur. Ce cookie ne comprend aucune donnée personnelle. Il indique simplement l’ID de la publication que vous venez de modifier. Il expire au bout d’un jour.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Contenu embarqué depuis d’autres sites</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texte suggéré : </strong>Les articles de ce site peuvent inclure des contenus intégrés (par exemple des vidéos, images, articles…). Le contenu intégré depuis d’autres sites se comporte de la même manière que si le visiteur se rendait sur cet autre site.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>Ces sites web pourraient collecter des données sur vous, utiliser des cookies, embarquer des outils de suivis tiers, suivre vos interactions avec ces contenus embarqués si vous disposez d’un compte connecté sur leur site web.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Utilisation et transmission de vos données personnelles</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texte suggéré : </strong>Si vous demandez une réinitialisation de votre mot de passe, votre adresse IP sera incluse dans l’e-mail de réinitialisation.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Durées de stockage de vos données</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texte suggéré : </strong>Si vous laissez un commentaire, le commentaire et ses métadonnées sont conservés indéfiniment. Cela permet de reconnaître et approuver automatiquement les commentaires suivants au lieu de les laisser dans la file de modération.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>Pour les comptes qui s’inscrivent sur notre site (le cas échéant), nous stockons également les données personnelles indiquées dans leur profil. Tous les comptes peuvent voir, modifier ou supprimer leurs informations personnelles à tout moment (à l’exception de leur identifiant). Les gestionnaires du site peuvent aussi voir et modifier ces informations.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Les droits que vous avez sur vos données</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texte suggéré : </strong>Si vous avez un compte ou si vous avez laissé des commentaires sur le site, vous pouvez demander à recevoir un fichier contenant toutes les données personnelles que nous possédons à votre sujet, incluant celles que vous nous avez fournies. Vous pouvez également demander la suppression des données personnelles vous concernant. Cela ne prend pas en compte les données stockées à des fins administratives, légales ou pour des raisons de sécurité.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Transmission de vos données personnelles</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Texte suggéré : </strong>Les commentaires des visiteurs peuvent être vérifiés à l’aide d’un service automatisé de détection des commentaires indésirables.</p><!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2022-03-25 02:18:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-03-25 01:18:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-25 18:33:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-25 17:33:17]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[politique-de-confidentialite]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Custom Styles]]></title>
 		<link>http://localhost/messaoud/blogVoitures&#038;motos/non-classe/wp-global-styles-blogmotosvoitures/</link>
 		<pubDate>Fri, 25 Mar 2022 01:48:35 +0000</pubDate>
@@ -921,8 +873,8 @@
 		<wp:post_id>40</wp:post_id>
 		<wp:post_date><![CDATA[2022-03-25 10:06:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-03-25 09:06:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-27 09:16:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-27 07:16:19]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-03-30 12:51:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-03-30 10:51:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[bmw]]></wp:post_name>
@@ -942,15 +894,15 @@
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[date_sortie]]></wp:meta_key>
-		<wp:meta_value><![CDATA[20220326]]></wp:meta_value>
+		<wp:meta_key><![CDATA[age]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_date_sortie]]></wp:meta_key>
 		<wp:meta_value><![CDATA[field_623f2fdcedf7e]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[puissance_en_chevaux_ou_cm3]]></wp:meta_key>
+		<wp:meta_key><![CDATA[race]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1254]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -960,6 +912,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[bmw-r1250gs-triple-black]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -980,8 +940,8 @@
 		<wp:post_id>117</wp:post_id>
 		<wp:post_date><![CDATA[2022-03-27 01:51:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-03-27 00:51:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-27 01:51:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-27 00:51:41]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-03-30 12:50:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-03-30 10:50:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[jaguar-type-e]]></wp:post_name>
@@ -1001,15 +961,15 @@
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[date_sortie]]></wp:meta_key>
-		<wp:meta_value><![CDATA[20220327]]></wp:meta_value>
+		<wp:meta_key><![CDATA[age]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_date_sortie]]></wp:meta_key>
 		<wp:meta_value><![CDATA[field_623f2fdcedf7e]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[puissance_en_chevaux_ou_cm3]]></wp:meta_key>
+		<wp:meta_key><![CDATA[race]]></wp:meta_key>
 		<wp:meta_value><![CDATA[700]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -1035,8 +995,8 @@
 		<wp:post_id>120</wp:post_id>
 		<wp:post_date><![CDATA[2022-03-27 08:47:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-03-27 06:47:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-27 08:47:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-27 06:47:54]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-03-30 12:50:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-03-30 10:50:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[lamborghini]]></wp:post_name>
@@ -1052,8 +1012,8 @@
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[date_sortie]]></wp:meta_key>
-		<wp:meta_value><![CDATA[20220327]]></wp:meta_value>
+		<wp:meta_key><![CDATA[age]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -1064,7 +1024,7 @@
 		<wp:meta_value><![CDATA[field_623f2fdcedf7e]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[puissance_en_chevaux_ou_cm3]]></wp:meta_key>
+		<wp:meta_key><![CDATA[race]]></wp:meta_key>
 		<wp:meta_value><![CDATA[700]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -1090,8 +1050,8 @@
 		<wp:post_id>123</wp:post_id>
 		<wp:post_date><![CDATA[2022-03-27 08:53:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-03-27 06:53:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-27 08:53:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-27 06:53:14]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-03-30 12:49:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-03-30 10:49:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[honda]]></wp:post_name>
@@ -1107,7 +1067,7 @@
 		<wp:meta_value><![CDATA[field_623f3094d5191]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[puissance_en_chevaux_ou_cm3]]></wp:meta_key>
+		<wp:meta_key><![CDATA[race]]></wp:meta_key>
 		<wp:meta_value><![CDATA[6000]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -1119,8 +1079,8 @@
 		<wp:meta_value><![CDATA[45]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[date_sortie]]></wp:meta_key>
-		<wp:meta_value><![CDATA[20220327]]></wp:meta_value>
+		<wp:meta_key><![CDATA[age]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -1145,8 +1105,8 @@
 		<wp:post_id>127</wp:post_id>
 		<wp:post_date><![CDATA[2022-03-27 09:29:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-03-27 07:29:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-27 09:29:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-27 07:29:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-03-30 12:48:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-03-30 10:48:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[bugatti]]></wp:post_name>
@@ -1158,15 +1118,15 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="voitures"><![CDATA[Voitures]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[date_sortie]]></wp:meta_key>
-		<wp:meta_value><![CDATA[20220327]]></wp:meta_value>
+		<wp:meta_key><![CDATA[age]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_date_sortie]]></wp:meta_key>
 		<wp:meta_value><![CDATA[field_623f2fdcedf7e]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[puissance_en_chevaux_ou_cm3]]></wp:meta_key>
+		<wp:meta_key><![CDATA[race]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1000]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -1200,8 +1160,8 @@
 		<wp:post_id>130</wp:post_id>
 		<wp:post_date><![CDATA[2022-03-27 09:32:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-03-27 07:32:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-27 09:32:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-27 07:32:05]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-03-30 12:47:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-03-30 10:47:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[ferrari]]></wp:post_name>
@@ -1225,7 +1185,7 @@
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[puissance_en_chevaux_ou_cm3]]></wp:meta_key>
+		<wp:meta_key><![CDATA[race]]></wp:meta_key>
 		<wp:meta_value><![CDATA[680]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -1233,8 +1193,8 @@
 		<wp:meta_value><![CDATA[field_623f3094d5191]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[date_sortie]]></wp:meta_key>
-		<wp:meta_value><![CDATA[20220327]]></wp:meta_value>
+		<wp:meta_key><![CDATA[age]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1255,8 +1215,8 @@
 		<wp:post_id>134</wp:post_id>
 		<wp:post_date><![CDATA[2022-03-27 09:34:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-03-27 07:34:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-27 09:34:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-27 07:34:44]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-03-30 12:47:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-03-30 10:47:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[chevrolet]]></wp:post_name>
@@ -1268,7 +1228,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="voitures"><![CDATA[Voitures]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[puissance_en_chevaux_ou_cm3]]></wp:meta_key>
+		<wp:meta_key><![CDATA[race]]></wp:meta_key>
 		<wp:meta_value><![CDATA[600]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -1288,8 +1248,8 @@
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[date_sortie]]></wp:meta_key>
-		<wp:meta_value><![CDATA[20220327]]></wp:meta_value>
+		<wp:meta_key><![CDATA[age]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1310,8 +1270,8 @@
 		<wp:post_id>138</wp:post_id>
 		<wp:post_date><![CDATA[2022-03-27 09:50:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-03-27 07:50:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-27 09:50:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-27 07:50:33]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-03-30 12:46:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-03-30 10:46:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[yamaha]]></wp:post_name>
@@ -1323,8 +1283,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="motos"><![CDATA[Motos]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[date_sortie]]></wp:meta_key>
-		<wp:meta_value><![CDATA[20220327]]></wp:meta_value>
+		<wp:meta_key><![CDATA[age]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -1335,7 +1295,7 @@
 		<wp:meta_value><![CDATA[field_623f2fdcedf7e]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[puissance_en_chevaux_ou_cm3]]></wp:meta_key>
+		<wp:meta_key><![CDATA[race]]></wp:meta_key>
 		<wp:meta_value><![CDATA[600]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -1365,8 +1325,8 @@
 		<wp:post_id>141</wp:post_id>
 		<wp:post_date><![CDATA[2022-03-27 10:20:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-03-27 08:20:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-27 10:20:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-27 08:20:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-03-30 12:45:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-03-30 10:45:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[gsx-r]]></wp:post_name>
@@ -1378,8 +1338,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="motos"><![CDATA[Motos]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[date_sortie]]></wp:meta_key>
-		<wp:meta_value><![CDATA[20220327]]></wp:meta_value>
+		<wp:meta_key><![CDATA[age]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -1390,7 +1350,7 @@
 		<wp:meta_value><![CDATA[field_623f2fdcedf7e]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[puissance_en_chevaux_ou_cm3]]></wp:meta_key>
+		<wp:meta_key><![CDATA[race]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1000]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -1420,8 +1380,8 @@
 		<wp:post_id>144</wp:post_id>
 		<wp:post_date><![CDATA[2022-03-27 10:24:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-03-27 08:24:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-27 10:24:11]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-27 08:24:11]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-03-30 12:44:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-03-30 10:44:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[lamborghini-2]]></wp:post_name>
@@ -1437,12 +1397,8 @@
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[date_sortie]]></wp:meta_key>
-		<wp:meta_value><![CDATA[20220327]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[race]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1996]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -1461,36 +1417,12 @@
 		<wp:meta_value><![CDATA[field_623f3094d5191]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[age]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Archives]]></title>
-		<link>http://localhost/messaoud/blogVoitures&#038;motos/archives/</link>
-		<pubDate>Sun, 27 Mar 2022 14:07:33 +0000</pubDate>
-		<dc:creator><![CDATA[blogvoituresmotos]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/messaoud/blogVoitures&#038;motos/?page_id=147</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>147</wp:post_id>
-		<wp:post_date><![CDATA[2022-03-27 16:07:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-03-27 14:07:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-27 16:07:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-27 14:07:33]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[archives]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page-archive.php]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_age]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_623f2fdcedf7e]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1537,6 +1469,44 @@
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[page-contact.php]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Accueil]]></title>
+		<link>http://localhost/messaoud/blogVoitures&#038;motos/?page_id=169</link>
+		<pubDate>Wed, 30 Mar 2022 10:00:58 +0000</pubDate>
+		<dc:creator><![CDATA[blogvoituresmotos]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/messaoud/blogVoitures&#038;motos/?page_id=169</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>ewqtd(x e-cfyubghinjo,nihbugtfr-de(Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>169</wp:post_id>
+		<wp:post_date><![CDATA[2022-03-30 12:00:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-03-30 10:00:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-03-30 12:10:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-03-30 10:10:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[accueil__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1648635033]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[accueil]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
