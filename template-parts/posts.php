@@ -1,29 +1,33 @@
 
-<div class="container d-flex flex-row">
-    <?php 
-        if(have_posts()):
-            while(have_posts()):
-                the_post();
-    ?>
-                    
+<div class="container d-flex flex-row items-justified-center">
+<?php
+            $args = array(
+                'numberposts' => 3,
+                // 'category' => the_category_ID(false),
+                // 'exclude' => get_the_ID()
+            );
+
+            $presentation_posts = get_posts($args);
+
+            if(!empty($presentation_posts))
+            {
+                foreach($presentation_posts as $pst)
+                {
+        ?>
                     <div class="card">
-                    <div class="card-header">
-                            <div><?= the_post_thumbnail(); ?></div>
-                    </div>
+                        <div><?php echo get_the_post_thumbnail($pst, 'medium'); ?></div>
                         <div class="card-body">
-                            <h5 class="card-title"><?= the_title(); ?></h5>
-                            <p class="card-text"><?= the_excerpt(); ?></p>
-                            <p class="card-text">Catégorie : <?= the_category(); ?></p>
-                            <p class="card-text">Auteur : <?= get_the_author(); ?></p>
-                            <p class="card-text">Date de création : <?= get_the_date(); ?></p>
-                        </div>
-                        <div class="card-footer">
-                            <a href="<?= the_permalink(); ?>" class="btn btn-primary">Lire l'article</a>
+                            <h5 class="card-title"><?= get_the_title($pst); ?></h5>
+                            <p class="card-text"><?= get_the_excerpt($pst); ?></p>
+                            <p class="card-text">Catégorie : <?= the_category($pst); ?></p>
+                            <p class="card-text">Auteur : <?= get_the_author($pst); ?></p>
+                            <p class="card-text">Date de création : <?= get_the_date('',$pst); ?></p>
+                            <a href="<?= the_permalink($pst); ?>" class="btn btn-primary">Lire l'article</a>
                         </div>
                     </div>
-    <?php
-            endwhile;
-        endif;
-        
-    ?>
+            <hr>
+        <?php
+                }
+            }
+        ?>
 </div>

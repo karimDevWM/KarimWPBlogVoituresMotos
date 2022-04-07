@@ -11,6 +11,7 @@
 	<div class="postContent">
 		<?php get_template_part('template-parts/postContent');?>
 	</div>
+	<?php get_template_part('template-parts/portfolioSingular');?>
 </div>
 <?php 
 	get_footer();

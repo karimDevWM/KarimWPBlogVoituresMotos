@@ -52,4 +52,59 @@
         array(), '1.0', true);
     }
     add_action( 'wp_enqueue_scripts', 'activiteWordpress_register_scripts');
+
+
+
+    function montheme_register_post_types() {
+        // Custom Post Types and Taxonomies declaration go here
+        // CPT Portfolio
+        //Les différents noms de notre CPT
+        $labels = array
+        (
+            'name' => 'Portfolio',
+            'all_items' => 'Tous les projets',  // affiché dans le sous menu
+            'singular_name' => 'Projet',
+            'add_new_item' => 'Ajouter un projet',
+            'edit_item' => 'Modifier le projet',
+            'menu_name' => 'Portfolio'
+        );
+        $args = array
+        (
+            'labels' => $labels,
+            'public' => true, //accessible sur le site ?
+            'show_in_rest' => true, //accessible par l'API? Gutenberg en a besoin pour fonctionner correctement
+            'has_archive' => true, //comme les articles ou comme les pages ?
+            'supports' => array( 'title', 'editor', 'thumbnail' ),
+            'menu_position' => 5, 
+            'menu_icon' => 'dashicons-admin-customizer',
+            'show_in_nav_menus' => true,
+            'show_ui' => true
+        );
+        register_post_type( 'portfolio', $args ); //le nom de notre CPT
+
+
+
+        // $labels = array
+        // (
+        //     'name' => 'Projet',
+        //     'all_items' => 'Tous les projets',  // affiché dans le sous menu
+        //     'singular_name' => 'Project',
+        //     'add_new_item' => 'Ajouter un projet',
+        //     'edit_item' => 'Modifier le projet',
+        //     'menu_name' => 'Projet'
+        // );
+        // $args = array
+        // (
+        //         'labels' => $labels,
+        //         'public' => true, //accessible sur le site ?
+        //         'show_in_rest' => true, //accessible par l'API? Gutenberg en a besoin pour fonctionner correctement
+        //         'has_archive' => true, //comme les articles ou comme les pages ?
+        //         'supports' => array( 'title', 'editor', 'thumbnail' ),
+        //         'menu_position' => 5, 
+        //         'menu_icon' => 'dashicons-admin-customizer',
+        // );
+        // register_post_type( 'project', $args ); //le nom de notre CPT
+
+    }
+        add_action( 'init', 'montheme_register_post_types' );
 ?>
