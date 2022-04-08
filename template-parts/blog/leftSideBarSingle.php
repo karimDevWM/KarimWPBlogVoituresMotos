@@ -22,7 +22,18 @@
 														<div class="card-body">
 															<h5 class="card-title"><?= get_the_title($pst); ?></h5>
 															<p class="card-text"><?= get_the_excerpt($pst); ?></p>
-															<p class="card-text">Catégorie : <?= the_category($pst); ?></p>
+															<?php 
+																if(get_the_category($pst))
+																{
+																	$categories = [];
+																	foreach(get_the_category($pst) as $category)
+																	{
+																		$categories[]=$category->name;
+																	}
+																	$categories = implode(', ', $categories);
+																}
+															?>
+															<p class="card-text">Catégorie : <?= $categories ?></p>
 															<p class="card-text">Auteur : <?= get_the_author($pst); ?></p>
 															<p class="card-text">Date de création : <?= get_the_date('',$pst); ?></p>
 															<a href="<?= the_permalink($pst); ?>" class="btn btn-primary">Lire l'article</a>

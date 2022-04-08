@@ -83,6 +83,24 @@
             'show_ui' => true
         );
         register_post_type( 'garage', $args ); //le nom de notre CPT
+        
+        // Déclaration de la nouvelle Taxonomie
+        $labels = array(
+            'name' => 'Type de véhicules',
+            'new_item_name' => 'Nom du nouveau type de véhicules',
+            'parent_item' => 'Type de projet parent',
+        );
+        
+        $args = array( 
+            'labels' => $labels,
+            'public' => true, //nécessaire pour l’affichage sur le site
+            'show_in_rest' => true, //nécessaire pour l’éditeur
+            'hierarchical' => true, //comportement catégorie ou étiquettes
+        );
+        // On déclare la taxonomie et on la lie avec le CPT portfolio
+        register_taxonomy( 'type-vehicules', 'garage', $args );
     }
         add_action( 'init', 'montheme_register_post_types' );
+
+
 ?>

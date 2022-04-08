@@ -6,10 +6,10 @@
 
 <div class="single-grid">
 	<div class="leftsidebar">
-		<?php get_template_part('template-parts/leftSideBarSingle');?> 
+		<?php get_template_part('template-parts/blog/leftSideBarSingle');?> 
 	</div>
 	<div class="postContent">
-		<?php get_template_part('template-parts/postContent');?>
+		<?php get_template_part('template-parts/blog/postContent');?>
 	</div>
 </div>
 <?php 

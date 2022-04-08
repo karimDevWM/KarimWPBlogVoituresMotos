@@ -4,7 +4,7 @@ Template Name: Contact
 */
     get_header();
 	get_template_part('template-parts/navigation');
-	get_template_part('template-parts/contact');
+	get_template_part('template-parts/blog/contact');
 ?>
 
 <footer style="margin-top: 200px;">
