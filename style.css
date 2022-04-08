@@ -3,6 +3,20 @@ Theme Name: blogMotosVoitures
 Author: Karim
 **/
 
+.car-spec-head
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.car-spec-sheet
+{
+    display: grid;
+    grid-template-columns: 30% 60%;
+    column-gap: 10%;
+}
+
 .garage-single
 {
     margin-top: 200px;
