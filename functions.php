@@ -94,5 +94,83 @@
     }
         add_action( 'init', 'montheme_register_post_types' );
 
+        class myWidget_widget extends WP_Widget 
+    {
+        // la méthode constructor, que nous utiliserons pour déterminer une ID, 
+        // le nom du widget tel qu’il apparaît dans l’interface utilisateur et une description :
+        function __construct() 
+        {
+            parent::__construct(
+            // widget ID
+            'myWidget_widget',
+            // widget name
+            __('myWidget Sample Widget', ' myWidget_widget_domain'),
+            // widget description
+            array( 'description' => __( 'myWidget_widget Widget Tutorial', 'myWidget_widget_domain' ), )
+            );
+        }
+        // Ensuite, nous passons à l’apparence du widget, ou comment le front-end du widget s’affichera. Cela se fera par 
+            // la fonction widget() :
+        public function widget( $args, $instance ) 
+        {
+            $title = apply_filters( 'widget_title', $instance['title'] );
+            echo $args['before_widget'];
+            //if title is present
+            if ( ! empty( $title ) )
+            echo $args['before_title'] . $title . $args['after_title'];
+            //output
+            echo __( '', 'myWidget_widget_domain' );
+            ?>
+                <form action="" method="post">
+                    <input type="text" name="">
+                </form>
+            <?php
+
+            echo $args['after_widget'];
+        }
+
+        // Maintenant, nous devons programmer l’arrière-plan du widget en utilisant la méthode form() :
+        public function form( $instance ) 
+        {
+            if ( isset( $instance[ 'title' ] ) )
+            $title = $instance[ 'title' ];
+            else
+            $title = __( 'Default Title', 'myWidget_widget_domain' );
+            ?>
+            <p>
+            <label for="<?php echo $this->get_field_id( 'title' ); ?>"><?php _e( 'Title:' ); ?></label>
+            <input class="widefat" id="<?php echo $this->get_field_id( 'title' ); ?>" name="<?php echo $this->get_field_name( 'title' ); ?>" type="text" value="<?php echo esc_attr( $title ); ?>" />
+            </p>
+            <?php
+        }
+
+        // fonction de mise à jour pour actualiser le widget chaque fois que les paramètres sont modifiés.
+        public function update( $new_instance, $old_instance ) 
+        {
+            $instance = array();
+            $instance['title'] = ( ! empty( $new_instance['title'] ) ) ? strip_tags( $new_instance['title'] ) : '';
+            return $instance;
+        }
+    }
+    // enregistrer le widget avec WordPress
+    function myWidget_register_widget() 
+    {
+        register_widget( 'myWidget_widget' );
+    }
+    add_action( 'widgets_init', 'myWidget_register_widget' );
+
+    // reserver button widget sidebar
+    register_sidebar( array(
+        'id' => 'contact-Btn',
+        'name' => 'contactBtn',
+                            ) 
+                    );
+    
+    // widget sidebar
+    register_sidebar( array(
+        'id' => 'reservation-Form',
+        'name' => 'reservationForm',
+                            ) 
+                    );
 
 ?>

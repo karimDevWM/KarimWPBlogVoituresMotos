@@ -24,5 +24,6 @@
                             
                             
                         </div>
+                        <?php dynamic_sidebar( 'contactBtn' ); ?>
                     </div>
             <hr>
